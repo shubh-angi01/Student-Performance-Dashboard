@@ -36,7 +36,7 @@ This project analyzes student performance across three subjects: Math, Reading, 
 - Minor gender-based variation in specific subjects
 
 ## 📎 How to View
-Download and open the `.pbit` file using Power BI Desktop.
+Download and open the `student performance dashboard.pbit` file using Power BI Desktop.
 
 ---
 
