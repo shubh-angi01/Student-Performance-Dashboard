@@ -28,7 +28,7 @@ This project analyzes student performance across three subjects: Math, Reading, 
 - Clear, interactive layout for insight discovery
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot]( screenshort of student performance tracker.png)
+![Dashboard Screenshot]screenshort of student performance tracker.png
 
 ## 📚 Insights
 - Students who completed the test prep course performed significantly better
